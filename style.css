@@ -1,0 +1,23 @@
+.satu{
+    background-color: orange;
+    height: 40px;
+}
+
+.dua{
+    background-color: red;
+    height: 40px;
+}
+
+.tiga{
+    background-color: aqua;
+    height: 40px;
+}
+
+.container{
+    border: 5px solid green;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
